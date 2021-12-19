@@ -1,0 +1,24 @@
+{
+	"color": "#ff1c7ed6",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1639851393.json",
+	"mirror_portraits": false,
+	"name": "Zombie",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 20,
+	"offset_y": -175,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		},
+		{
+			"name": "Zombie_Portrait",
+			"path": "res://Assets/Zombie_Portrait.png"
+		}
+	],
+	"scale": 59
+}
